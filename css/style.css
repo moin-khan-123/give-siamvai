@@ -1,0 +1,16 @@
+.custom-banner-moin {
+    height: 200px;
+    width: 100%;
+    background-color: teal;
+    display: flex;
+    justify-content: space-around;
+}
+
+.custom-banner-moin img{
+    height: 100%;
+}
+
+a button{
+    height: 30px;
+    width: 120px;
+}
